@@ -8,10 +8,6 @@ Gosto de testar stacks, quebrar coisas, consertar depois e transformar ideias em
 Tenho foco em aplicações rápidas, simples, privadas, com baixa dependência e pouco espaço para vendor lock-in.
 Software foi feito para servir, não para prender. Se a ferramenta sequestra dados, complica o simples ou força dependência de uma única plataforma, para mim é tchau e bênção.
 
-## O que eu faço
-- **CEO na [Alpes Data](https://alpesdata.com.br)**: estratégia, dados, tráfego pago, automação e negócios digitais.
-- **Mantenedor do [ContaBase](https://github.com/contabase-app/contabase)**: aplicação Web/PWA para gestão financeira privada, com foco em self-hosting, multi-workspace e uso por pessoas, famílias, profissionais liberais e pequenas empresas.
-
 ## Projetos pessoais
 
 Meus projetos seguem uma linha simples: baixa dependência, privacidade, local-first quando faz sentido e zero bloatware.
